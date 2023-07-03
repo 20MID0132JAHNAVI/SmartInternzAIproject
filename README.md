@@ -1,1 +1,1 @@
-# SmartInternzAIproject
+# VITbot
